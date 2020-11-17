@@ -2,14 +2,14 @@
 
 [![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/skevlishvili)](https://github.com/skevlishvili)
 
-## I'm a Fullstack Developer, UI/UX and Brand Designer!!
+## I'm a Fullstack Developer, UI/UX and a newcomer to Machine Learning!
 
 - 🌌 curious about everything
 - 👨‍💻 freelancer
 - 🎴 curently working on personal project
 - 🌱 love to learn new things
-- ⚪ perfectionist
-- ⚡ love designing and building usefull junk
+- ⚪ scientific mindset
+- ⚡ love hacking and experimenting
 
 <br />
 
