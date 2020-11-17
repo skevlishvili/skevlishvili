@@ -22,7 +22,7 @@
 
 <br />
 
-# Programming Languages and Fraimworks:
+# Programming Languages, FrameWorks And Random Stuff I Do:
 
 ## Front-end
 
