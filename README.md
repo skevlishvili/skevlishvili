@@ -3,7 +3,7 @@
 [![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/skevlishvili)](https://github.com/skevlishvili)
 
 ![skevlishvili's github stats](https://github-readme-stats.vercel.app/api?username=skevlishvili&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skevlishvili&layout=compact)](https://github.com/skevlishvili/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skevlishvili&layout=compact)](https://github.com/skevlishvili/github-readme-stats)
 
 ## I'm a Fullstack Developer, UI/UX and a Newcomer to Machine Learning!
 
