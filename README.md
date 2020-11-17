@@ -57,8 +57,7 @@
 
 [![something](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)]()
 [![something](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)]()
-<br />
-<br />
+
 
 ### Databases
 
