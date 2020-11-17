@@ -94,9 +94,9 @@
 [![something](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)]()
 [![something](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)]()
 [![something](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)]()
+<br />
 
-<br />
-<br />
+---
 
 ## Contact me:
 
