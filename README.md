@@ -3,6 +3,7 @@
 [![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/skevlishvili)](https://github.com/skevlishvili)
 
 ![skevlishvili's github stats](https://github-readme-stats.vercel.app/api?username=skevlishvili&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skevlishvili&layout=compact)](https://github.com/skevlishvili/github-readme-stats
 
 ## I'm a Fullstack Developer, UI/UX and a Newcomer to Machine Learning!
 
@@ -16,15 +17,7 @@
 <br />
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-ML           2 hrs 34 mins   ██████████████████░░░░░░░   71.58 % 
-Javascript   32 mins         ████████████▓░░░░░░░░░░░░   14.92 % 
-Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-C#           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-```
-<!--END_SECTION:waka-->
+
 
 
 ## Spotify Playing 🎧
