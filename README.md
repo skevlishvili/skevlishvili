@@ -36,9 +36,9 @@
 
 ### FrameWorks
 
-[![Github Profile] (https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/skevlishvili)
-[![Github Profile] (https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/skevlishvili)
-[![Github Profile] (https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/skevlishvili)
+[![Github Profile](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/skevlishvili)
+[![Github Profile](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/skevlishvili)
+[![Github Profile](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/skevlishvili)
 [![Github Profile](https://img.shields.io/badge/Flutter%20-6DCFF8.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/skevlishvili)
 [![Github Profile](https://img.shields.io/badge/React%20Native%20-83CEF4.svg?&style=for-the-badge&logo=react&logoColor=white)](https://github.com/skevlishvili)
 
@@ -83,8 +83,6 @@
 [![something](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)]()
 [![something](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)]()
 <br />
-
----
 
 ---
 
