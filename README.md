@@ -2,7 +2,7 @@
 
 [![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/skevlishvili)](https://github.com/skevlishvili)
 
-## I'm a Fullstack Developer, UI/UX and a newcomer to Machine Learning!
+## I'm a Fullstack Developer, UI/UX and a Newcomer to Machine Learning!
 
 - 🌌 curious about everything
 - 👨‍💻 freelancer
@@ -12,6 +12,16 @@
 - ⚡ love hacking and experimenting
 
 <br />
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+ML           2 hrs 34 mins   ██████████████████░░░░░░░   71.58 % 
+Javascript   32 mins         ████████████▓░░░░░░░░░░░░   14.92 % 
+Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+C#           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+
 
 ## Spotify Playing 🎧
 
