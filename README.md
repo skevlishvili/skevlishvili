@@ -7,7 +7,7 @@
 
 
 📊 **This Week I Spent My Time On:**
-[![skevlishvili's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/skevlishvili/github-readme-stats)
+[![skevlishvili's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skevlishvili)](https://github.com/skevlishvili/github-readme-stats)
 
 ## I'm a Fullstack Developer, UI/UX and a Newcomer to Machine Learning!
 
