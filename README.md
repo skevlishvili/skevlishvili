@@ -5,10 +5,6 @@
 ![skevlishvili's github stats](https://github-readme-stats.vercel.app/api?username=skevlishvili&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skevlishvili&layout=compact&theme=dark)](https://github.com/skevlishvili/github-readme-stats)
 
-
-📊 **This Week I Spent My Time On:**
-[![skevlishvili's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skevlishvili)](https://github.com/skevlishvili/github-readme-stats)
-
 ## I'm a Fullstack Developer, UI/UX and a Newcomer to Machine Learning!
 
 - 🌌 curious about everything
