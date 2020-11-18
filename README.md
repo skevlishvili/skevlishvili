@@ -17,7 +17,7 @@
 <br />
 
 
-## Spotify Playing 🎧
+## Spotify 🎧
 
 [![Spotify Page](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nqfpzmauenz24rzuorpqbaf06?si=w1tPmRYnTjWTKIfl6bEq4Q)
 
