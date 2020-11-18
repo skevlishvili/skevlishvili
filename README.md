@@ -19,8 +19,8 @@
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://novatorem-indol-five.vercel.app/api/spotify)](https://open.spotify.com/user/nqfpzmauenz24rzuorpqbaf06?si=w1tPmRYnTjWTKIfl6bEq4Q)
-<br />
+<-- [![Spotify](https://novatorem-indol-five.vercel.app/api/spotify)](https://open.spotify.com/user/nqfpzmauenz24rzuorpqbaf06?si=w1tPmRYnTjWTKIfl6bEq4Q)
+<br /> -->
 
 [![Spotify Page](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nqfpzmauenz24rzuorpqbaf06?si=w1tPmRYnTjWTKIfl6bEq4Q)
 
